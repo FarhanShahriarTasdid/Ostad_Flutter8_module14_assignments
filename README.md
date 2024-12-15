@@ -1,6 +1,6 @@
 # module14_assignments
 
-A new Flutter project.
+Check for 3 TODOs, 2 at the update screen and 1 at the product item
 
 ## Getting Started
 
